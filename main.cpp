@@ -73,6 +73,7 @@ int main()
     capitals[48] = "Charleston";
     capitals[49] = "Madison";
     capitals[50] = "Cheyenne";
+    capitals[51] = "None";
 
     states[1] = "Alabama";
     states[2] = "Alaska";
